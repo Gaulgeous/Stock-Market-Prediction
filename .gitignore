@@ -1,0 +1,11 @@
+# Ignore all models created
+models/*
+
+# Ignore all csvs created
+stocks_csvs/*
+
+# Ignore pycache
+__pycache__
+
+# Ignore any .bat files that might break the system
+*.bat
